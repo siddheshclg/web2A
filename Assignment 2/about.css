@@ -1,0 +1,72 @@
+/*Start of about page*/
+
+
+
+
+
+/* About Page Specific Styles */
+
+/* Main content container styling */
+.maincontent {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+/* Heading styling */
+.maincontent h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #0d6efd;
+}
+
+/* Paragraph styling */
+.maincontent p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Unordered list styling */
+.maincontent ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.maincontent ul li {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Highlight brand name and category in bold */
+.maincontent strong {
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+/* Link styling within the about page */
+.maincontent a {
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+.maincontent a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design for smaller screens */
+@media (max-width: 768px) {
+    .maincontent {
+        padding: 10px;
+    }
+
+    .maincontent h1 {
+        font-size: 1.8rem;
+    }
+
+    .maincontent p, .maincontent ul li {
+        font-size: 1rem;
+    }
+}

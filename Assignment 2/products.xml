@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>YONEX Duora 10 LCW</name>
+        <price>14,059</price>
+        <image>https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiiKt_3aOcEjduIzQG0cykmHoVQz6SsL0clzN7-Go_g7H7rkGwoC17tFXDZl9MvZdTFGgGjJOB3VdjHAM2Jcoye4431x0gBPqEtv_IIo6H&amp;usqp=CAE</image>
+    </product>
+
+    <product>
+        <name>YONEX Arcsaber 7 Play (Unstrung)</name>
+        <price>2,990</price>
+        <image>https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyFdYpnHkkVVG5v1dHUN1_I-06DIRli4JNXUkcYFUdkjBkjlZtnXQEyEU8rj7TGbTZWiwgmRAr0V_yaGl-Lj-lF6SZwVWxonxznKxY9aYcJLs8nmuWw5icMQ&amp;usqp=CAE</image>
+    </product>
+
+    <product>
+        <name>YONEX Nanoflare 1000 Game (Strung)</name>
+        <price>5,399</price>
+        <image>https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcToF7jrH_hJ4-3LbSrMMZ2btMZ3Yp7rbOzXHlAaqhxu8MGr6YAjRTtrTMc9_R_1733dsdhATv4-quALY_Tl3tj27fXjiz1_OKgm-FPkSrG8L6rTCqTWO9-8&amp;usqp=CAE</image>
+    </product>
+    
+    <product>
+        <name>Yonex SUNR M101 TK BT6 Badminton Racket Kit Bag Grey and Black Colour</name>
+        <price>2,250</price>
+        <image>https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJz_SdR3brHgxo9EMQbteDJqzl9i-R6D3E_BPPfJpD1hCgynGoWyhkZ9h0iglz_mc7IYPbTKl1XShmXriibyYum3iyWX0M5G332DIxWQ3PnMC-lbb1r37Z1g&amp;usqp=CAE</image>
+    </product> 
+
+    <product>
+        <name>Yonex Mavis 350 Green Cap Nylon Shuttlecock (Yellow)</name>
+        <price>1,199</price>
+        <image>https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1MT_FlcoLil17LoZdMDt_qFWRKOqhSWp8tkc69_Lbv_eGOyLB05W3_OdvWhtvvJnBSGbP3lDRASANZfC0bbXF_FIjRfivi8rwklQhn3vAC4PVWy2Kfw9e&amp;usqp=CAE</image>
+    </product> 
+</products>

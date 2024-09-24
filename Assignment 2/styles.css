@@ -1,0 +1,79 @@
+.active{
+    background-color: rgb(130, 120, 216);
+    border-radius: 5px;
+}
+
+#navbarNav{
+    margin-top: 5px;
+    text-align: center;
+}
+li{
+    border-radius: 5px;
+}
+
+li:hover{
+    background-color: rgba(121, 194, 212, 0.699);
+}
+
+.maincontent{
+    margin-top: 20px;
+}
+.row{
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.card:hover{
+    background-color:aqua;
+    scale: 1.04;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Stronger shadow on hover */
+
+    
+}
+/* a .card {
+    text-decoration: none;
+} */
+/* a{
+    text-decoration: none;
+} */
+.remove-underline a{
+    text-decoration: none;
+}
+.card-text{
+    text-align: center;
+    font-weight: bold;
+}
+.card .product-tile{
+    width: 10rem;
+    
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow */
+    transition: box-shadow 0.3s ease; /* Smooth transition for shadow on hover */
+
+    
+}
+.remove-underline {
+    margin-bottom: 15px; /* Space between cards in the same row */
+    
+}
+
+
+
+/* End of the home pape or index.html css*/
+
+.card-price{
+    font-weight: bold;
+}
+
+
+
+
